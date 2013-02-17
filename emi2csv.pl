@@ -2,7 +2,7 @@
 #
 #    emi2csv.pl - Converts ATIS/OBF-EMI Formatted Data to Comma Separated Values (CSV)
 #
-#    Copyright (C) 2013  Michael J. Mavroudis - michael.j.mavroudis@gmail.com
+#    Copyright (C) 2013 - Michael J. Mavroudis - michael.j.mavroudis@gmail.com
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
